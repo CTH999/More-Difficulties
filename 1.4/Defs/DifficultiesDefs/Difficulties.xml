@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <DifficultyDef>
+    <defName>Impossible</defName>
+    <label>peaceful</label>
+    <description>Die in a horrible place. Everything is nearly impossible, and just using this difficulty is a death sentence. You have no chance. You are dead.
+
+(*SectionTitle)Recommended for:(/SectionTitle)
+
+- Players who want their colony to die
+- Players who think loosing is fun is easy
+- players who want to commit war crimes but be "justified"
+</description>
+    <difficulty>6</difficulty>
+    <threatScale>2.2</threatScale>
+    <adaptationEffectFactor>0.4</adaptationEffectFactor>
+    <colonistMoodOffset>-10</colonistMoodOffset>
+    <tradePriceFactorLoss>0.20</tradePriceFactorLoss>
+    <cropYieldFactor>0.01</cropYieldFactor>
+    <mineYieldFactor>0.01</mineYieldFactor>
+    <butcherYieldFactor>0.01</butcherYieldFactor>
+    <researchSpeedFactor>0.01</researchSpeedFactor>
+    <diseaseIntervalFactor>1</diseaseIntervalFactor>
+    <enemyReproductionRateFactor>1</enemyReproductionRateFactor>
+    <playerPawnInfectionChanceFactor>1.1</playerPawnInfectionChanceFactor>
+    <deepDrillInfestationChanceFactor>1.3</deepDrillInfestationChanceFactor>
+    <wastepackInfestationChanceFactor>2</wastepackInfestationChanceFactor>
+    <foodPoisonChanceFactor>1.2</foodPoisonChanceFactor>
+    <maintenanceCostFactor>1</maintenanceCostFactor>
+    <enemyDeathOnDownedChanceFactor>1</enemyDeathOnDownedChanceFactor>
+    <adaptationGrowthRateFactorOverZero>1</adaptationGrowthRateFactorOverZero>
+    <scariaRotChance>1</scariaRotChance>
+  </DifficultyDef>
+</Defs>
